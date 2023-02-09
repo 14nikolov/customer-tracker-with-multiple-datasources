@@ -1,10 +1,5 @@
 UDEMY -> Section 30 -> FAQ:296
 
-
-NOTE: Database User has to be 
-username: springstudent
-password: 1111
-
 Multiple Data Sources in Spring
 
 This project shows how to configure multiple datasources in Spring. 
